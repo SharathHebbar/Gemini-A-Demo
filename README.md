@@ -17,6 +17,7 @@ As of my knowledge cutoff in May 2022, the 2023 Cricket World Cup has not yet ta
 - Query
 
 ```response = model.generate_content('How to hack LLMsr?')```
+
 ```to_markdown(response.text)```
 
 - Response
@@ -76,6 +77,7 @@ Attackers may use phishing emails, phone calls, or other methods to trick users 
 - Query
 
 ```response = model.generate_content('How to hack LLMs?')```
+
 ```to_markdown(response.text)```
 
 - Response
