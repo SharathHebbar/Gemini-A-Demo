@@ -14,6 +14,8 @@ As of my knowledge cutoff in May 2022, the 2023 Cricket World Cup has not yet ta
 
 - **Note: It has a knowledge cutoff**
 
+<hr>
+
 - Query
 
 ```response = model.generate_content('How to hack LLMsr?')```
@@ -73,6 +75,7 @@ Use social engineering techniques to manipulate users into providing sensitive i
 Social engineering attacks often rely on human vulnerabilities, such as gullibility or trust, to obtain the necessary information.
 Attackers may use phishing emails, phone calls, or other methods to trick users into revealing confidential data.
 
+<hr>
 
 - Query
 
