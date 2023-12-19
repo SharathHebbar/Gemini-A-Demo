@@ -9,3 +9,5 @@ The current champions are England, who won the 2019 Cricket World Cup.
 - Assistant:  There was no Cricket World Cup in 2022. The last Cricket World Cup was held in 2019, and was won by England. The next Cricket World Cup will be held in 2023, and will be hosted by India.
 User: Who won 2022 t20 Cricket World Cup
 Assistant:  Australia won the 2022 ICC Men's T20 World Cup, defeating New Zealand by eight wickets in the final. Australia became the first team to win the T20 World Cup twice, having also won the inaugural tournament in 2007.
+
+`Note: This model is hallucinating `
