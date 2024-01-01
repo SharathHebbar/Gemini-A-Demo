@@ -4,6 +4,7 @@
 2. Jurassic-2 (J2) is our top-notch series of state-of-the-art Large Language Models. As the new generation following Jurassic-1, J2 not only improves upon the previous series in every aspect, but it also offers new features and capabilities that put it in a league of its own.
 3. It offers 6 models such as `j2-large-instruct`, `j2-grande-chat`, `j2-jumbo-chat`, `j2-light`, `j2-mid`, and `j2-ultra`.
 4. It offers various types of tasks such as `Paraphrase`, `Summarize`, `Summarize By Segment`, `Text Segmentation`, `Grammatical Error Corrections`, `Text Improvements`, `Library Answer`, `Library Search`, and `Contextual Answers`.
+
 ## Important Links
 
 The AI21 platform offers 90$ credit as a usage for the user.
