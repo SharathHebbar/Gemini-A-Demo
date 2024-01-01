@@ -67,9 +67,9 @@ A spell check, but so much more: Capitalizing, changing words that sound the sam
 
 | Before | After |
 | ---- | ----- |
-I'm not aloud to go	I'm not allowed to go
-i think i tough i saw you tryt	i think i thought i saw you try
-Let it god	Let it go
+| I'm not aloud to go | I'm not allowed to go |
+| i think i tough i saw you tryt | i think i thought i saw you try |
+| Let it god | Let it go |
 
 #### Avoid repetition of repetitive word repetitions
 
